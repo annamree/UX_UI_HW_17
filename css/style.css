@@ -1,0 +1,22 @@
+  h1{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(204, 13, 221);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold
+}
+.logo {
+    background: white;
+    height: 230px;
+    background: url("Images/PortfolioLOGO.png") no-repeat
+    center;
+}
+.hero-image-bg {
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 600px;
+}
